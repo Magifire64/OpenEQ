@@ -153,6 +153,7 @@ When updating code, please also update relevant documentation:
 
 Last updated: 2025-11-05
 
-Maintained by: GitHub Copilot (initial creation)
+Created by: GitHub Copilot (automated documentation generation)  
+Maintainer: Please assign a project maintainer
 
 Please keep documentation up-to-date as the project evolves!
