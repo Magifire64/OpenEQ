@@ -150,6 +150,7 @@ openeq.cfg              # Configuration file
 5. **Test Account Exposure**
    - Commit note: "Removed a test account password"
    - Suggests potential security issues in development
+   - **Security Note**: Never commit passwords or credentials to git. Use environment variables or secure configuration files. Consider using git-secrets or pre-commit hooks to prevent accidental commits of sensitive data.
 
 ### ⚠️ Limitations
 
