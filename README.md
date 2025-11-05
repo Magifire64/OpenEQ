@@ -104,6 +104,21 @@ The project is in active development with experimental features across multiple 
 
 This appears to be a personal project in development. Check individual branch documentation for specific areas that need work.
 
+## Additional Documentation
+
+### Technical Documentation
+
+- **Network Protocol**: See [Netcode/netdocs.md](Netcode/netdocs.md) - Detailed EverQuest network protocol documentation
+- **Zone File Format**: See [converter/zonefmt.md](converter/zonefmt.md) - OES zone file format specification
+- **Character File Format**: See [converter/charfmt.md](converter/charfmt.md) - OES character file format specification
+
+### Existing Documentation
+
+The repository also contains:
+- Network protocol documentation in `Netcode/` directory
+- File format specifications in `converter/` directory
+- These provide low-level technical details about EQ protocols and custom file formats
+
 ## Legal Notice
 
 This project is for educational and preservation purposes. EverQuest is a trademark of Daybreak Game Company LLC. This project is not affiliated with or endorsed by Daybreak Game Company.
